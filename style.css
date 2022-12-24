@@ -1,0 +1,92 @@
+.container{
+    width: 1300px;
+    height: 550px;
+    background-color: white;
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 40px;
+    }
+    
+   .first{
+    width: 650px; 
+    height: 550px; 
+    background-color:whitesmoke;
+    
+    }
+    
+    .second{
+        width: 650px; 
+        height: 550px; 
+        background-color: whitesmoke;
+        margin-left: 650px;
+        margin-top: -550px;
+        position:absolute;
+    }
+
+    .img{
+        position: absolute;
+        height: 550px;
+    }
+
+    .img3{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 150px;
+        width: 330px;
+    }
+
+    .loginform{
+      
+        margin-left: 150px;
+        margin-top: 180px;
+        font-size: 10px;
+    }
+
+    .user{
+       
+    }
+
+    .pass{
+        margin-top: 10px;
+        
+
+    }
+
+    .label1{
+        margin-top: 10px;
+        width:350px;  
+        height: 30px; 
+        border-style: solid;
+    }
+    
+
+    .forgotpass{
+        position: absolute;
+        color: red;
+        size: 50px;
+        margin-left: 150px;
+        margin-top: 30px;
+        
+    }
+.continue{
+        margin-top: 80px;   
+        position: absolute;
+        width:350px;  
+        height: 30px; 
+        color: white;
+        background-color: red;
+        margin-left: 150px;
+}
+.join{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 135px;
+    color: red;
+}
+
+.agree{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 170px;
+    size: 20px;
+}
